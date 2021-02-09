@@ -1,4 +1,4 @@
-class TweetSerivce:
+class TweetService:
     def __init__(self, tweet_dao):
         self.tweet_dao = tweet_dao
 
